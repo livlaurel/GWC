@@ -20,7 +20,13 @@ function App() {
             <p>Year: Junior</p>
             <p>Major: Computer Science</p>
           </div>
-          
+
+          <div className="Member-box">
+            <h3>Lorenz De Robles 🚀</h3>
+            <p>Year: Junior</p>
+            <p>Major: Computer Science</p>
+          </div>
+
         </div>
       </div>
     </div>
