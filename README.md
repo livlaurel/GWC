@@ -38,9 +38,9 @@ In this workshop, we will walk through the process of contributing to an open-so
 - Copy and Paste the member box.
 - Add in your info!
 - Info:
-- Name/Fave Emoji
-- Year
-- Major
+  * Name/Fave Emoji
+  * Year
+  * Major
 
 ### 5. Stage and Commit Your Changes
 - Stage the changes:
