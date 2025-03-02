@@ -16,7 +16,7 @@ function App() {
         <div className='Members'>
       
           <div className="Member-box">
-            <h3>Olivia Laurel</h3>
+            <h3>Olivia Laurel 🌸</h3>
             <p>Year: Junior</p>
             <p>Major: Computer Science</p>
           </div>
