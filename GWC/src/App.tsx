@@ -12,17 +12,18 @@ function App() {
       </div>
 
       <div className="Members-section">
-        <h2 className="Members-title">Members</h2>
+        <h2 className="Members-title">Our Members</h2>
         <div className='Members'>
-      
+
+          {/* Add your name, emoji, year, and major to the list below */}
           <div className="Member-box">
-            <h3>Olivia Laurel 🌸</h3>
+            <h3>Olivia Laurel🌸</h3>
             <p>Year: Junior</p>
             <p>Major: Computer Science</p>
           </div>
 
           <div className="Member-box">
-            <h3>Lorenz De Robles 🚀</h3>
+            <h3>Lorenz De Robles🚀</h3>
             <p>Year: Junior</p>
             <p>Major: Computer Science</p>
           </div>
