@@ -75,5 +75,5 @@ In this workshop, we will walk through the process of contributing to an open-so
 
 Happy coding! 🚀
 
-Created by: Olivia Laurel 2025 🌸
+> Created by: Olivia Laurel 2025 🌸
 
