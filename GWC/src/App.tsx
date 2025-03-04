@@ -29,11 +29,29 @@ function App() {
           </div>
 
           <div className="Member-box">
+            <h3>Asia Fleming🚀</h3>
+            <p>Year: Senior</p>
+            <p>Major: Computer Information Systems</p>
+          </div>
+          
+          <div className-"Member-box">
+            <h3>Aleena Tomy😁</h3>
+            <p>Year: Junior</p>
+            <p>Major: Computer Science</p>
+          </div>
+        
+          <div className="Member-box">
+            <h3>Marsha Christian🍓</h3>
+            <p>Year: Junior</p>
+            <p>Major: Computer Science</p>
+          </div>
+        
+          <div className="Member-box">
             <h3>Jessica O'Bonna♡</h3>
             <p>Year: Sophomore</p>
             <p>Major: Computer Science</p>
           </div>
-
+          
         </div>
       </div>
     </div>
