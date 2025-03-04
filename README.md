@@ -6,7 +6,7 @@ In this workshop, we will walk through the process of contributing to an open-so
 
 ## Prerequisites 🖥️
 - A GitHub account
-- Git installed on your computer
+- Git & Node.js installed on your computer
 - A text editor (VS Code, etc.)
 
 ## Steps to Contribute 👩‍💻
