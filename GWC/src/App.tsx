@@ -29,7 +29,7 @@ function App() {
           </div>
 
           <div className="Member-box">
-            <h3>Jessica O'Bonna♡</h3>
+            <h3>Jessica O'Bonna★</h3>
             <p>Year: Sophomore</p>
             <p>Major: Computer Science</p>
           </div>
