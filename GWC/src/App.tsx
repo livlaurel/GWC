@@ -51,7 +51,13 @@ function App() {
             <p>Year: Sophomore</p>
             <p>Major: Computer Science</p>
           </div>
-          
+         
+          <div className="Member-box">
+            <h3>Leslie Tejeda-Peña💗</h3>
+            <p>Year: Freshman</p>
+            <p>Major: Computer Science</p>
+          </div>
+        
         </div>
       </div>
     </div>
